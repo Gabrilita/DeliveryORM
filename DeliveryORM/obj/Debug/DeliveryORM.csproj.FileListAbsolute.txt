@@ -1,0 +1,16 @@
+C:\Users\gabri\OneDrive\Работен плот\DeliveryORM\DeliveryORM\obj\Debug\DeliveryORM.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Работен плот\DeliveryORM\DeliveryORM\obj\Debug\DeliveryORM.Form1.resources
+C:\Users\gabri\OneDrive\Работен плот\DeliveryORM\DeliveryORM\obj\Debug\DeliveryORM.Properties.Resources.resources
+C:\Users\gabri\OneDrive\Работен плот\DeliveryORM\DeliveryORM\obj\Debug\DeliveryORM.csproj.GenerateResource.cache
+C:\Users\gabri\OneDrive\Работен плот\DeliveryORM\DeliveryORM\obj\Debug\DeliveryORM.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Работен плот\DeliveryORM\DeliveryORM\bin\Debug\DeliveryORM.exe.config
+C:\Users\gabri\OneDrive\Работен плот\DeliveryORM\DeliveryORM\bin\Debug\DeliveryORM.exe
+C:\Users\gabri\OneDrive\Работен плот\DeliveryORM\DeliveryORM\bin\Debug\DeliveryORM.pdb
+C:\Users\gabri\OneDrive\Работен плот\DeliveryORM\DeliveryORM\bin\Debug\EntityFramework.dll
+C:\Users\gabri\OneDrive\Работен плот\DeliveryORM\DeliveryORM\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gabri\OneDrive\Работен плот\DeliveryORM\DeliveryORM\bin\Debug\EntityFramework.xml
+C:\Users\gabri\OneDrive\Работен плот\DeliveryORM\DeliveryORM\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gabri\OneDrive\Работен плот\DeliveryORM\DeliveryORM\obj\Debug\Delivery.60DFC3E7.Up2Date
+C:\Users\gabri\OneDrive\Работен плот\DeliveryORM\DeliveryORM\obj\Debug\DeliveryORM.exe
+C:\Users\gabri\OneDrive\Работен плот\DeliveryORM\DeliveryORM\obj\Debug\DeliveryORM.pdb
+C:\Users\gabri\OneDrive\Работен плот\DeliveryORM\DeliveryORM\obj\Debug\DeliveryORM.Migrations.DeliveryMigrations.resources
