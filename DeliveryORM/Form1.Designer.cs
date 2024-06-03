@@ -46,12 +46,13 @@
             this.btnFind = new System.Windows.Forms.Button();
             this.btnSelectAll = new System.Windows.Forms.Button();
             this.listBox1 = new System.Windows.Forms.ListBox();
+            this.btnClear = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // lblId
             // 
             this.lblId.AutoSize = true;
-            this.lblId.Location = new System.Drawing.Point(26, 48);
+            this.lblId.Location = new System.Drawing.Point(67, 50);
             this.lblId.Name = "lblId";
             this.lblId.Size = new System.Drawing.Size(23, 20);
             this.lblId.TabIndex = 0;
@@ -60,7 +61,7 @@
             // lblName
             // 
             this.lblName.AutoSize = true;
-            this.lblName.Location = new System.Drawing.Point(26, 81);
+            this.lblName.Location = new System.Drawing.Point(67, 82);
             this.lblName.Name = "lblName";
             this.lblName.Size = new System.Drawing.Size(51, 20);
             this.lblName.TabIndex = 1;
@@ -69,7 +70,7 @@
             // lblDescription
             // 
             this.lblDescription.AutoSize = true;
-            this.lblDescription.Location = new System.Drawing.Point(26, 115);
+            this.lblDescription.Location = new System.Drawing.Point(315, 38);
             this.lblDescription.Name = "lblDescription";
             this.lblDescription.Size = new System.Drawing.Size(89, 20);
             this.lblDescription.TabIndex = 2;
@@ -78,7 +79,7 @@
             // lblPrice
             // 
             this.lblPrice.AutoSize = true;
-            this.lblPrice.Location = new System.Drawing.Point(26, 148);
+            this.lblPrice.Location = new System.Drawing.Point(67, 116);
             this.lblPrice.Name = "lblPrice";
             this.lblPrice.Size = new System.Drawing.Size(44, 20);
             this.lblPrice.TabIndex = 3;
@@ -87,7 +88,7 @@
             // label5
             // 
             this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(26, 180);
+            this.label5.Location = new System.Drawing.Point(67, 148);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(59, 20);
             this.label5.TabIndex = 4;
@@ -95,35 +96,36 @@
             // 
             // txtId
             // 
-            this.txtId.Location = new System.Drawing.Point(121, 48);
+            this.txtId.Location = new System.Drawing.Point(162, 44);
             this.txtId.Name = "txtId";
             this.txtId.Size = new System.Drawing.Size(100, 26);
             this.txtId.TabIndex = 5;
             // 
             // txtName
             // 
-            this.txtName.Location = new System.Drawing.Point(121, 80);
+            this.txtName.Location = new System.Drawing.Point(162, 76);
             this.txtName.Name = "txtName";
             this.txtName.Size = new System.Drawing.Size(100, 26);
             this.txtName.TabIndex = 6;
             // 
             // txtDescription
             // 
-            this.txtDescription.Location = new System.Drawing.Point(121, 112);
+            this.txtDescription.Location = new System.Drawing.Point(319, 61);
+            this.txtDescription.Multiline = true;
             this.txtDescription.Name = "txtDescription";
-            this.txtDescription.Size = new System.Drawing.Size(100, 26);
+            this.txtDescription.Size = new System.Drawing.Size(265, 141);
             this.txtDescription.TabIndex = 7;
             // 
             // txtPrice
             // 
-            this.txtPrice.Location = new System.Drawing.Point(121, 142);
+            this.txtPrice.Location = new System.Drawing.Point(162, 110);
             this.txtPrice.Name = "txtPrice";
             this.txtPrice.Size = new System.Drawing.Size(100, 26);
             this.txtPrice.TabIndex = 8;
             // 
             // txtWeight
             // 
-            this.txtWeight.Location = new System.Drawing.Point(121, 174);
+            this.txtWeight.Location = new System.Drawing.Point(162, 142);
             this.txtWeight.Name = "txtWeight";
             this.txtWeight.Size = new System.Drawing.Size(100, 26);
             this.txtWeight.TabIndex = 9;
@@ -131,7 +133,7 @@
             // label6
             // 
             this.label6.AutoSize = true;
-            this.label6.Location = new System.Drawing.Point(26, 211);
+            this.label6.Location = new System.Drawing.Point(67, 181);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(75, 20);
             this.label6.TabIndex = 10;
@@ -140,14 +142,14 @@
             // cmbDishType
             // 
             this.cmbDishType.FormattingEnabled = true;
-            this.cmbDishType.Location = new System.Drawing.Point(121, 208);
+            this.cmbDishType.Location = new System.Drawing.Point(162, 174);
             this.cmbDishType.Name = "cmbDishType";
-            this.cmbDishType.Size = new System.Drawing.Size(121, 28);
+            this.cmbDishType.Size = new System.Drawing.Size(100, 28);
             this.cmbDishType.TabIndex = 11;
             // 
             // btnAdd
             // 
-            this.btnAdd.Location = new System.Drawing.Point(30, 281);
+            this.btnAdd.Location = new System.Drawing.Point(645, 53);
             this.btnAdd.Name = "btnAdd";
             this.btnAdd.Size = new System.Drawing.Size(152, 78);
             this.btnAdd.TabIndex = 12;
@@ -157,7 +159,7 @@
             // 
             // btnUpdate
             // 
-            this.btnUpdate.Location = new System.Drawing.Point(208, 281);
+            this.btnUpdate.Location = new System.Drawing.Point(803, 53);
             this.btnUpdate.Name = "btnUpdate";
             this.btnUpdate.Size = new System.Drawing.Size(152, 78);
             this.btnUpdate.TabIndex = 13;
@@ -167,7 +169,7 @@
             // 
             // btnDelete
             // 
-            this.btnDelete.Location = new System.Drawing.Point(388, 281);
+            this.btnDelete.Location = new System.Drawing.Point(961, 53);
             this.btnDelete.Name = "btnDelete";
             this.btnDelete.Size = new System.Drawing.Size(152, 78);
             this.btnDelete.TabIndex = 14;
@@ -177,7 +179,7 @@
             // 
             // btnFind
             // 
-            this.btnFind.Location = new System.Drawing.Point(121, 377);
+            this.btnFind.Location = new System.Drawing.Point(645, 137);
             this.btnFind.Name = "btnFind";
             this.btnFind.Size = new System.Drawing.Size(152, 78);
             this.btnFind.TabIndex = 15;
@@ -187,7 +189,7 @@
             // 
             // btnSelectAll
             // 
-            this.btnSelectAll.Location = new System.Drawing.Point(298, 377);
+            this.btnSelectAll.Location = new System.Drawing.Point(803, 137);
             this.btnSelectAll.Name = "btnSelectAll";
             this.btnSelectAll.Size = new System.Drawing.Size(152, 78);
             this.btnSelectAll.TabIndex = 16;
@@ -199,16 +201,27 @@
             // 
             this.listBox1.FormattingEnabled = true;
             this.listBox1.ItemHeight = 20;
-            this.listBox1.Location = new System.Drawing.Point(277, 52);
+            this.listBox1.Location = new System.Drawing.Point(26, 238);
             this.listBox1.Name = "listBox1";
-            this.listBox1.Size = new System.Drawing.Size(249, 184);
+            this.listBox1.Size = new System.Drawing.Size(1141, 224);
             this.listBox1.TabIndex = 17;
+            // 
+            // btnClear
+            // 
+            this.btnClear.Location = new System.Drawing.Point(961, 137);
+            this.btnClear.Name = "btnClear";
+            this.btnClear.Size = new System.Drawing.Size(152, 78);
+            this.btnClear.TabIndex = 18;
+            this.btnClear.Text = "CLEAR";
+            this.btnClear.UseVisualStyleBackColor = true;
+            this.btnClear.Click += new System.EventHandler(this.btnClear_Click);
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(569, 484);
+            this.ClientSize = new System.Drawing.Size(1193, 485);
+            this.Controls.Add(this.btnClear);
             this.Controls.Add(this.listBox1);
             this.Controls.Add(this.btnSelectAll);
             this.Controls.Add(this.btnFind);
@@ -228,7 +241,7 @@
             this.Controls.Add(this.lblName);
             this.Controls.Add(this.lblId);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Delivery";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -255,6 +268,7 @@
         private System.Windows.Forms.Button btnFind;
         private System.Windows.Forms.Button btnSelectAll;
         private System.Windows.Forms.ListBox listBox1;
+        private System.Windows.Forms.Button btnClear;
     }
 }
 

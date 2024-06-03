@@ -36,6 +36,7 @@ namespace DeliveryORM
             txtName.Text = dish.Name;
             txtPrice.Text = dish.Price.ToString();
             txtWeight.Text = dish.Weight.ToString();
+            txtDescription.Text = dish.Description;
             cmbDishType.Text = dish.DishTypes.Name;
         }
 
@@ -45,6 +46,7 @@ namespace DeliveryORM
             txtName.Clear();
             txtPrice.Clear();
             txtWeight.Clear();
+            txtDescription.Clear();
             cmbDishType.Text = "";
         }
 
@@ -60,7 +62,7 @@ namespace DeliveryORM
             newDish.Name = txtName.Text;
             newDish.Description = txtDescription.Text;
             newDish.Price = decimal.Parse(txtPrice.Text);
-            newDish.Weight = decimal.Parse(txtWeight.Text);
+            newDish.Weight = int.Parse(txtWeight.Text);
             newDish.DishTypeId = (int)cmbDishType.SelectedValue;
 
             dishesController.Create(newDish);
@@ -99,7 +101,7 @@ namespace DeliveryORM
                 updatedDish.Name = txtName.Text;
                 updatedDish.Description = txtDescription.Text;
                 updatedDish.Price = decimal.Parse(txtPrice.Text);
-                updatedDish.Weight = decimal.Parse(txtWeight.Text);
+                updatedDish.Weight = int.Parse(txtWeight.Text);
                 updatedDish.DishTypeId = (int)cmbDishType.SelectedValue;
 
                 dishesController.Update(findId, updatedDish);
@@ -173,10 +175,14 @@ namespace DeliveryORM
             listBox1.Items.Clear();
             foreach (var item in allDishes)
             {
-                listBox1.Items.Add($"{item.Id}, {item.Name}, Description:{item.Description} Price:{item.Price}, Weight: {item.Weight}, Dish type:{item.DishTypes.Name}");
+                listBox1.Items.Add($"{item.Id}, {item.Name}, Цена: {item.Price} лв., Грамаж: {item.Weight} гр., Тип ястие: {item.DishTypes.Name}, Описание: {item.Description}");
             }
         }
 
+        private void btnClear_Click(object sender, EventArgs e)
+        {
+            ClearScreen();
+        }
     }
 }
 

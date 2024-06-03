@@ -13,7 +13,7 @@ namespace DeliveryORM.Migrations
         
         string IMigrationMetadata.Id
         {
-            get { return "202405311342319_DeliveryMigrations"; }
+            get { return "202406031448235_DeliveryMigrations"; }
         }
         
         string IMigrationMetadata.Source

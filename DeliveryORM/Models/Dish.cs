@@ -13,7 +13,7 @@ namespace DeliveryORM.Models
         public string Description { get; set; }
 
         public decimal Price { get; set; }
-        public decimal Weight { get; set; }
+        public int Weight { get; set; }
         public int DishTypeId { get; set; }
         public DishType DishTypes { get; set; }
     }

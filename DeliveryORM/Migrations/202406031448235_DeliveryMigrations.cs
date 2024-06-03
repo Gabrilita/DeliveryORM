@@ -15,7 +15,7 @@
                         Name = c.String(),
                         Description = c.String(),
                         Price = c.Decimal(nullable: false, precision: 18, scale: 2),
-                        Weight = c.Decimal(nullable: false, precision: 18, scale: 2),
+                        Weight = c.Int(nullable: false),
                         DishTypeId = c.Int(nullable: false),
                     })
                 .PrimaryKey(t => t.Id)
