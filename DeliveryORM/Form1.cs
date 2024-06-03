@@ -140,7 +140,7 @@ namespace DeliveryORM
                 {
                     dishesController.Delete(findId);
                 }
-                
+                btnSelectAll_Click(sender, e);
             }
         }
         private void btnFind_Click(object sender, EventArgs e)
