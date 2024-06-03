@@ -3,50 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\gabri\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\DeliveryORM\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Delivery/True/SqlTable/dbo.DishTypes.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Delivery/True/SqlTable/dbo.Dishes.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C901419D-C575-4FDE-B580-B70AEB1792A9}|DeliveryORM\\DeliveryORM.csproj|C:\\Users\\gabri\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\DeliveryORM\\deliveryorm\\controllers\\dishtypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C901419D-C575-4FDE-B580-B70AEB1792A9}|DeliveryORM\\DeliveryORM.csproj|solutionrelative:deliveryorm\\controllers\\dishtypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C901419D-C575-4FDE-B580-B70AEB1792A9}|DeliveryORM\\DeliveryORM.csproj|C:\\Users\\gabri\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\DeliveryORM\\deliveryorm\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{C901419D-C575-4FDE-B580-B70AEB1792A9}|DeliveryORM\\DeliveryORM.csproj|solutionrelative:deliveryorm\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C901419D-C575-4FDE-B580-B70AEB1792A9}|DeliveryORM\\DeliveryORM.csproj|c:\\users\\gabri\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\deliveryorm\\deliveryorm\\controllers\\dishcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C901419D-C575-4FDE-B580-B70AEB1792A9}|DeliveryORM\\DeliveryORM.csproj|solutionrelative:deliveryorm\\controllers\\dishcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gabri\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\DeliveryORM\\DeliveryORM\\Controlls\\DishTypeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DeliveryORM\\Controlls\\DishTypeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C901419D-C575-4FDE-B580-B70AEB1792A9}|DeliveryORM\\DeliveryORM.csproj|C:\\Users\\gabri\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\DeliveryORM\\deliveryorm\\models\\dish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C901419D-C575-4FDE-B580-B70AEB1792A9}|DeliveryORM\\DeliveryORM.csproj|solutionrelative:deliveryorm\\models\\dish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C901419D-C575-4FDE-B580-B70AEB1792A9}|DeliveryORM\\DeliveryORM.csproj|C:\\Users\\gabri\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\DeliveryORM\\deliveryorm\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{C901419D-C575-4FDE-B580-B70AEB1792A9}|DeliveryORM\\DeliveryORM.csproj|solutionrelative:deliveryorm\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C901419D-C575-4FDE-B580-B70AEB1792A9}|DeliveryORM\\DeliveryORM.csproj|C:\\Users\\gabri\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\DeliveryORM\\deliveryorm\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C901419D-C575-4FDE-B580-B70AEB1792A9}|DeliveryORM\\DeliveryORM.csproj|solutionrelative:deliveryorm\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C901419D-C575-4FDE-B580-B70AEB1792A9}|DeliveryORM\\DeliveryORM.csproj|C:\\Users\\gabri\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\DeliveryORM\\deliveryorm\\models\\dishtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C901419D-C575-4FDE-B580-B70AEB1792A9}|DeliveryORM\\DeliveryORM.csproj|solutionrelative:deliveryorm\\models\\dishtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C901419D-C575-4FDE-B580-B70AEB1792A9}|DeliveryORM\\DeliveryORM.csproj|C:\\Users\\gabri\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\DeliveryORM\\deliveryorm\\models\\dishescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C901419D-C575-4FDE-B580-B70AEB1792A9}|DeliveryORM\\DeliveryORM.csproj|c:\\users\\gabri\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\deliveryorm\\deliveryorm\\models\\dishescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C901419D-C575-4FDE-B580-B70AEB1792A9}|DeliveryORM\\DeliveryORM.csproj|solutionrelative:deliveryorm\\models\\dishescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gabri\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\DeliveryORM\\DeliveryORM\\Controlls\\DishController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DeliveryORM\\Controlls\\DishController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C901419D-C575-4FDE-B580-B70AEB1792A9}|DeliveryORM\\DeliveryORM.csproj|c:\\users\\gabri\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\deliveryorm\\deliveryorm\\models\\dish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C901419D-C575-4FDE-B580-B70AEB1792A9}|DeliveryORM\\DeliveryORM.csproj|solutionrelative:deliveryorm\\models\\dish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C901419D-C575-4FDE-B580-B70AEB1792A9}|DeliveryORM\\DeliveryORM.csproj|c:\\users\\gabri\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\deliveryorm\\deliveryorm\\controllers\\dishcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C901419D-C575-4FDE-B580-B70AEB1792A9}|DeliveryORM\\DeliveryORM.csproj|solutionrelative:deliveryorm\\controllers\\dishcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C901419D-C575-4FDE-B580-B70AEB1792A9}|DeliveryORM\\DeliveryORM.csproj|c:\\users\\gabri\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\deliveryorm\\deliveryorm\\controllers\\dishtypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C901419D-C575-4FDE-B580-B70AEB1792A9}|DeliveryORM\\DeliveryORM.csproj|solutionrelative:deliveryorm\\controllers\\dishtypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C901419D-C575-4FDE-B580-B70AEB1792A9}|DeliveryORM\\DeliveryORM.csproj|c:\\users\\gabri\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\deliveryorm\\deliveryorm\\models\\dishtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C901419D-C575-4FDE-B580-B70AEB1792A9}|DeliveryORM\\DeliveryORM.csproj|solutionrelative:deliveryorm\\models\\dishtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -56,8 +38,73 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 7,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DishType.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\DeliveryORM\\DeliveryORM\\Models\\DishType.cs",
+              "RelativeDocumentMoniker": "DeliveryORM\\Models\\DishType.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\DeliveryORM\\DeliveryORM\\Models\\DishType.cs",
+              "RelativeToolTip": "DeliveryORM\\Models\\DishType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T16:39:34.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DishesContext.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\DeliveryORM\\DeliveryORM\\Models\\DishesContext.cs",
+              "RelativeDocumentMoniker": "DeliveryORM\\Models\\DishesContext.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\DeliveryORM\\DeliveryORM\\Models\\DishesContext.cs",
+              "RelativeToolTip": "DeliveryORM\\Models\\DishesContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T16:39:24.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dish.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\DeliveryORM\\DeliveryORM\\Models\\Dish.cs",
+              "RelativeDocumentMoniker": "DeliveryORM\\Models\\Dish.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\DeliveryORM\\DeliveryORM\\Models\\Dish.cs",
+              "RelativeToolTip": "DeliveryORM\\Models\\Dish.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T16:39:21.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DishTypeController.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\DeliveryORM\\DeliveryORM\\Controllers\\DishTypeController.cs",
+              "RelativeDocumentMoniker": "DeliveryORM\\Controllers\\DishTypeController.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\DeliveryORM\\DeliveryORM\\Controllers\\DishTypeController.cs",
+              "RelativeToolTip": "DeliveryORM\\Controllers\\DishTypeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T16:34:33.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DishController.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\DeliveryORM\\DeliveryORM\\Controllers\\DishController.cs",
+              "RelativeDocumentMoniker": "DeliveryORM\\Controllers\\DishController.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\DeliveryORM\\DeliveryORM\\Controllers\\DishController.cs",
+              "RelativeToolTip": "DeliveryORM\\Controllers\\DishController.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAkwAsAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T16:33:26.161Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -69,88 +116,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "dbo.DishTypes [Data]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Delivery/True/SqlTable/dbo.DishTypes.sql",
-              "ToolTip": "dbo.DishTypes [Data]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-06-03T16:07:56.924Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "dbo.Dishes [Data]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Delivery/True/SqlTable/dbo.Dishes.sql",
-              "ToolTip": "dbo.Dishes [Data]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-06-03T15:58:15.493Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Dish.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\DeliveryORM\\DeliveryORM\\Models\\Dish.cs",
-              "RelativeDocumentMoniker": "DeliveryORM\\Models\\Dish.cs",
-              "ToolTip": "C:\\Users\\gabri\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\DeliveryORM\\DeliveryORM\\Models\\Dish.cs",
-              "RelativeToolTip": "DeliveryORM\\Models\\Dish.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T03:19:09.032Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DishTypeController.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\DeliveryORM\\DeliveryORM\\Controllers\\DishTypeController.cs",
-              "RelativeDocumentMoniker": "DeliveryORM\\Controllers\\DishTypeController.cs",
-              "ToolTip": "C:\\Users\\gabri\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\DeliveryORM\\DeliveryORM\\Controllers\\DishTypeController.cs",
-              "RelativeToolTip": "DeliveryORM\\Controllers\\DishTypeController.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T14:28:08.761Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DishController.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\DeliveryORM\\DeliveryORM\\Controllers\\DishController.cs",
-              "RelativeDocumentMoniker": "DeliveryORM\\Controllers\\DishController.cs",
-              "ToolTip": "C:\\Users\\gabri\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\DeliveryORM\\DeliveryORM\\Controllers\\DishController.cs",
-              "RelativeToolTip": "DeliveryORM\\Controllers\\DishController.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAAwD8AAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T14:27:52.936Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "DishesContext.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\DeliveryORM\\DeliveryORM\\Models\\DishesContext.cs",
-              "RelativeDocumentMoniker": "DeliveryORM\\Models\\DishesContext.cs",
-              "ToolTip": "C:\\Users\\gabri\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\DeliveryORM\\DeliveryORM\\Models\\DishesContext.cs",
-              "RelativeToolTip": "DeliveryORM\\Models\\DishesContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T03:20:31.09Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "DishType.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\DeliveryORM\\DeliveryORM\\Models\\DishType.cs",
-              "RelativeDocumentMoniker": "DeliveryORM\\Models\\DishType.cs",
-              "ToolTip": "C:\\Users\\gabri\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\DeliveryORM\\DeliveryORM\\Models\\DishType.cs",
-              "RelativeToolTip": "DeliveryORM\\Models\\DishType.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T03:19:44.202Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\DeliveryORM\\DeliveryORM\\Form1.cs",
               "RelativeDocumentMoniker": "DeliveryORM\\Form1.cs",
@@ -162,50 +127,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "App.config",
-              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\DeliveryORM\\DeliveryORM\\App.config",
-              "RelativeDocumentMoniker": "DeliveryORM\\App.config",
-              "ToolTip": "C:\\Users\\gabri\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\DeliveryORM\\DeliveryORM\\App.config",
-              "RelativeToolTip": "DeliveryORM\\App.config",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-05-31T03:21:57.09Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "DishTypeController.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\DeliveryORM\\DeliveryORM\\Controlls\\DishTypeController.cs",
-              "RelativeDocumentMoniker": "DeliveryORM\\Controlls\\DishTypeController.cs",
-              "ToolTip": "C:\\Users\\gabri\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\DeliveryORM\\DeliveryORM\\Controlls\\DishTypeController.cs",
-              "RelativeToolTip": "DeliveryORM\\Controlls\\DishTypeController.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T03:18:27.198Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\DeliveryORM\\DeliveryORM\\Form1.cs",
               "RelativeDocumentMoniker": "DeliveryORM\\Form1.cs",
               "ToolTip": "C:\\Users\\gabri\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\DeliveryORM\\DeliveryORM\\Form1.cs",
               "RelativeToolTip": "DeliveryORM\\Form1.cs",
-              "ViewState": "AQIAAD4AAAAAAAAAAAAYwCYAAAAzAAAA",
+              "ViewState": "AQIAAJwAAAAAAAAAAAAQwLIAAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-31T03:11:19.554Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "DishController.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\DeliveryORM\\DeliveryORM\\Controlls\\DishController.cs",
-              "RelativeDocumentMoniker": "DeliveryORM\\Controlls\\DishController.cs",
-              "ToolTip": "C:\\Users\\gabri\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\DeliveryORM\\DeliveryORM\\Controlls\\DishController.cs",
-              "RelativeToolTip": "DeliveryORM\\Controlls\\DishController.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T03:17:21.769Z"
             }
           ]
         }

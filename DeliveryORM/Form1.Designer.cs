@@ -44,9 +44,9 @@
             this.btnUpdate = new System.Windows.Forms.Button();
             this.btnDelete = new System.Windows.Forms.Button();
             this.btnFind = new System.Windows.Forms.Button();
-            this.btnSelectAll = new System.Windows.Forms.Button();
             this.listBox1 = new System.Windows.Forms.ListBox();
             this.btnClear = new System.Windows.Forms.Button();
+            this.btnSelectAll = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // lblId
@@ -187,28 +187,18 @@
             this.btnFind.UseVisualStyleBackColor = true;
             this.btnFind.Click += new System.EventHandler(this.btnFind_Click);
             // 
-            // btnSelectAll
-            // 
-            this.btnSelectAll.Location = new System.Drawing.Point(803, 137);
-            this.btnSelectAll.Name = "btnSelectAll";
-            this.btnSelectAll.Size = new System.Drawing.Size(152, 78);
-            this.btnSelectAll.TabIndex = 16;
-            this.btnSelectAll.Text = "SELECT ALL";
-            this.btnSelectAll.UseVisualStyleBackColor = true;
-            this.btnSelectAll.Click += new System.EventHandler(this.btnSelectAll_Click);
-            // 
             // listBox1
             // 
             this.listBox1.FormattingEnabled = true;
             this.listBox1.ItemHeight = 20;
             this.listBox1.Location = new System.Drawing.Point(26, 238);
             this.listBox1.Name = "listBox1";
-            this.listBox1.Size = new System.Drawing.Size(1141, 224);
+            this.listBox1.Size = new System.Drawing.Size(1087, 224);
             this.listBox1.TabIndex = 17;
             // 
             // btnClear
             // 
-            this.btnClear.Location = new System.Drawing.Point(961, 137);
+            this.btnClear.Location = new System.Drawing.Point(803, 137);
             this.btnClear.Name = "btnClear";
             this.btnClear.Size = new System.Drawing.Size(152, 78);
             this.btnClear.TabIndex = 18;
@@ -216,14 +206,24 @@
             this.btnClear.UseVisualStyleBackColor = true;
             this.btnClear.Click += new System.EventHandler(this.btnClear_Click);
             // 
+            // btnSelectAll
+            // 
+            this.btnSelectAll.Location = new System.Drawing.Point(961, 137);
+            this.btnSelectAll.Name = "btnSelectAll";
+            this.btnSelectAll.Size = new System.Drawing.Size(152, 78);
+            this.btnSelectAll.TabIndex = 19;
+            this.btnSelectAll.Text = "SELECT ALL";
+            this.btnSelectAll.UseVisualStyleBackColor = true;
+            this.btnSelectAll.Click += new System.EventHandler(this.btnSelectAll_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1193, 485);
+            this.ClientSize = new System.Drawing.Size(1139, 485);
+            this.Controls.Add(this.btnSelectAll);
             this.Controls.Add(this.btnClear);
             this.Controls.Add(this.listBox1);
-            this.Controls.Add(this.btnSelectAll);
             this.Controls.Add(this.btnFind);
             this.Controls.Add(this.btnDelete);
             this.Controls.Add(this.btnUpdate);
@@ -266,9 +266,9 @@
         private System.Windows.Forms.Button btnUpdate;
         private System.Windows.Forms.Button btnDelete;
         private System.Windows.Forms.Button btnFind;
-        private System.Windows.Forms.Button btnSelectAll;
         private System.Windows.Forms.ListBox listBox1;
         private System.Windows.Forms.Button btnClear;
+        private System.Windows.Forms.Button btnSelectAll;
     }
 }
 

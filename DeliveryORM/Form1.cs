@@ -140,7 +140,7 @@ namespace DeliveryORM
                 {
                     dishesController.Delete(findId);
                 }
-                btnSelectAll_Click(sender, e);
+                
             }
         }
         private void btnFind_Click(object sender, EventArgs e)
@@ -168,14 +168,15 @@ namespace DeliveryORM
                 LoadRecord(findedDish);
             }
         }
+
         private void btnSelectAll_Click(object sender, EventArgs e)
         {
-
             List<Dish> allDishes = dishesController.GetAll();
             listBox1.Items.Clear();
             foreach (var item in allDishes)
             {
-                listBox1.Items.Add($"{item.Id}, {item.Name}, Цена: {item.Price} лв., Грамаж: {item.Weight} гр., Тип ястие: {item.DishTypes.Name}, Описание: {item.Description}");
+                //listBox1.Items.Add($"{item.Id}, {item.Name}, Цена: {item.Price} лв., Грамаж: {item.Weight} гр., Тип ястие: {item.DishTypes.Name}, Описание: {item.Description}");
+                listBox1.Items.Add($"{item.Id}, {item.Name}");
             }
         }
 
@@ -183,6 +184,7 @@ namespace DeliveryORM
         {
             ClearScreen();
         }
+       
     }
 }
 

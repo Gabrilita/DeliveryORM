@@ -9,39 +9,39 @@ namespace DeliveryORM.Controlls
 {
     public class DishController
     {
-        private DishesContext _dishesContext = new DishesContext();
+        private DishesContext _dishesDbContext = new DishesContext();
         public Dish Get(int id)
         {
-            using (_dishesContext=new DishesContext()) 
+            using (_dishesDbContext = new DishesContext()) 
             {
-                Dish findedDish = _dishesContext.Dishes.Find(id);
+                Dish findedDish = _dishesDbContext.Dishes.Find(id);
                 if (findedDish != null)
                 {
-                    _dishesContext.Entry(findedDish).Reference(x => x.DishTypes).Load();
+                    _dishesDbContext.Entry(findedDish).Reference(x => x.DishTypes).Load();
                 }
                 return findedDish;
             }
         }
         public List<Dish> GetAll()
         {
-            using (_dishesContext = new DishesContext()) 
+            using (_dishesDbContext = new DishesContext()) 
             {
-                return _dishesContext.Dishes.Include("DishTypes").ToList();
+                return _dishesDbContext.Dishes.Include("DishTypes").ToList();
             }
         }
         public void Create(Dish dish)
         {
-            using (_dishesContext = new DishesContext())
+            using (_dishesDbContext = new DishesContext())
             {
-                _dishesContext.Dishes.Add(dish);
-                _dishesContext.SaveChanges();
+                _dishesDbContext.Dishes.Add(dish);
+                _dishesDbContext.SaveChanges();
             }
         }
         public void Update(int id, Dish dish)
         {
-            using (_dishesContext = new DishesContext())
+            using (_dishesDbContext = new DishesContext())
             {
-                Dish findedDish = _dishesContext.Dishes.Find(id);
+                Dish findedDish = _dishesDbContext.Dishes.Find(id);
                 if (findedDish == null)
                 {
                     return;
@@ -51,16 +51,16 @@ namespace DeliveryORM.Controlls
                 findedDish.Price = dish.Price;
                 findedDish.Weight = dish.Weight;
                 findedDish.DishTypeId = dish.DishTypeId;
-                _dishesContext.SaveChanges();
+                _dishesDbContext.SaveChanges();
             }
         }
         public void Delete(int id)
         {
-            using (_dishesContext = new DishesContext())
+            using (_dishesDbContext = new DishesContext())
             {
-                Dish findedDish = _dishesContext.Dishes.Find(id);
-                _dishesContext.Dishes.Remove(findedDish);
-                _dishesContext.SaveChanges();
+                Dish findedDish = _dishesDbContext.Dishes.Find(id);
+                _dishesDbContext.Dishes.Remove(findedDish);
+                _dishesDbContext.SaveChanges();
             }
         }
     }

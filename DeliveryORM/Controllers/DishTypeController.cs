@@ -9,14 +9,14 @@ namespace DeliveryORM.Controlls
 {
     public class DishTypeController
     {
-        private DishesContext _dishesContext = new DishesContext();
+        private DishesContext _dishesDbContext = new DishesContext();
         public List<DishType> GetAllDishTypes()
         {
-            return _dishesContext.DishTypes.ToList();
+            return _dishesDbContext.DishTypes.ToList();
         }
         public string GetDishTypeById(int id)
         {
-            return _dishesContext.DishTypes.Find(id).Name;
+            return _dishesDbContext.DishTypes.Find(id).Name;
         }
     }
 }
