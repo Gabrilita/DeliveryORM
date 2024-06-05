@@ -1,4 +1,5 @@
-﻿using System;
+﻿using DeliveryORM.Models;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
@@ -14,6 +15,7 @@ namespace DeliveryORM
         [STAThread]
         static void Main()
         {
+            DishesContext dishesContext = new DishesContext();  
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());

@@ -13,4 +13,4 @@ C:\Users\gabri\OneDrive\Работен плот\DeliveryORM\DeliveryORM\bin\Debu
 C:\Users\gabri\OneDrive\Работен плот\DeliveryORM\DeliveryORM\obj\Debug\Delivery.60DFC3E7.Up2Date
 C:\Users\gabri\OneDrive\Работен плот\DeliveryORM\DeliveryORM\obj\Debug\DeliveryORM.exe
 C:\Users\gabri\OneDrive\Работен плот\DeliveryORM\DeliveryORM\obj\Debug\DeliveryORM.pdb
-C:\Users\gabri\OneDrive\Работен плот\DeliveryORM\DeliveryORM\obj\Debug\DeliveryORM.Migrations.DeliveryMigrations.resources
+C:\Users\gabri\OneDrive\Работен плот\DeliveryORM\DeliveryORM\obj\Debug\DeliveryORM.Migrations.DeliveryMigration.resources
