@@ -74,13 +74,16 @@ namespace DeliveryORM
                 txtId.Focus();
                 return;
             }
-            findId = int.Parse(txtId.Text);
+            else
+            {
+                findId = int.Parse(txtId.Text);
+            }
             if (string.IsNullOrEmpty(txtName.Text))
             {
                 Dish findedDish = dishesController.Get(findId);
                 if (findedDish == null)
                 {
-                    MessageBox.Show("НЯМА ТАКЪВ ЗАПИС в БД! \n Въведете Id за търсене!");
+                    MessageBox.Show("НЯМА ТАКЪВ ЗАПИС в БД! \nВъведете Id за търсене!");
                     txtId.Focus();
                     return;
                 }
@@ -97,7 +100,8 @@ namespace DeliveryORM
 
                 dishesController.Update(findId, updatedDish);
             }
-            MessageBox.Show("Успешен update!");
+            MessageBox.Show("Записът е успешно update-нат!");
+            ClearScreen();
             btnSelectAll_Click(sender, e);
         }
         private void btnDelete_Click(object sender, EventArgs e)
@@ -122,13 +126,15 @@ namespace DeliveryORM
             }
             LoadRecord(findedDish);
             DialogResult answer = MessageBox.Show("Наистина ли искате да изтриете запис No " + findId + "?",
-                "PROMPT",
+                "?",
                 MessageBoxButtons.YesNo,
                 MessageBoxIcon.Question);
             if (answer == DialogResult.Yes)
             {
                 dishesController.Delete(findId);
             }
+            MessageBox.Show("Записът е изтрит!");
+            ClearScreen();
             btnSelectAll_Click(sender, e);
         }
         private void btnFind_Click(object sender, EventArgs e)
@@ -144,26 +150,23 @@ namespace DeliveryORM
             {
                 findId = int.Parse(txtId.Text);
             }
-            if (string.IsNullOrEmpty(txtName.Text))
+            Dish findedDish = dishesController.Get(findId);
+            if (findedDish == null)
             {
-                Dish findedDish = dishesController.Get(findId);
-                if (findedDish == null)
-                {
-                    MessageBox.Show("НЯМА ТАКЪВ ЗАПИС в БД! \nВъведете Id за търсене!");
-                    txtId.Focus();
-                    return;
-                }
-                LoadRecord(findedDish);
+                MessageBox.Show("НЯМА ТАКЪВ ЗАПИС в БД! \nВъведете Id за търсене!");
+                txtId.Focus();
+                return;
             }
+            LoadRecord(findedDish);
         }
         private void btnSelectAll_Click(object sender, EventArgs e)
         {
             List<Dish> allDishes = dishesController.GetAll();
-            listBox1.Items.Clear();
+            listBox.Items.Clear();
             foreach (var item in allDishes)
             {
-                listBox1.Items.Add($"{item.Id}, {item.Name}, Цена: {item.Price} лв., Грамаж: {item.Weight} гр., Тип ястие: {item.DishTypes.Name}, Описание: {item.Description}");
-               // listBox1.Items.Add($"{item.Id}, {item.Name}");
+               // listBox.Items.Add($"{item.Id}, {item.Name}, Цена: {item.Price} лв., Грамаж: {item.Weight} гр., Тип ястие: {item.DishTypes.Name}, Описание: {item.Description}");
+               listBox.Items.Add($"{item.Id}, {item.Name}");
             }
         }
         private void btnClear_Click(object sender, EventArgs e)
