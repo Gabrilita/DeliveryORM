@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Drawing.Drawing2D;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -13,7 +14,8 @@ namespace DeliveryORM.Models
         public string Description { get; set; }
         public decimal Price { get; set; }
         public int Weight { get; set; }
-        public int DishTypeId { get; set; }
-        public DishType DishTypes { get; set; }
+        //M:1
+        public int DishTypeId { get; set; }//FK
+        public DishType DishTypes { get; set; }//таблицата, с която се осъществява връзката
     }
 }

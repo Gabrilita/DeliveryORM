@@ -13,7 +13,7 @@ namespace DeliveryORM.Models
         {
 
         }
-        public DbSet<Dish> Dishes { get; set; }
-        public DbSet<DishType> DishTypes { get; set; }
+        public DbSet<Dish> Dishes { get; set; }//Таблица Dishes
+        public DbSet<DishType> DishTypes { get; set; }//Таблица DishTypes
     }
 }

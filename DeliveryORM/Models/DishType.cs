@@ -10,6 +10,7 @@ namespace DeliveryORM.Models
     {
         public int Id { get; set; }
         public string Name { get; set; }
+        //1:M
         public ICollection<Dish> Dishes { get; set; }
     }
 }

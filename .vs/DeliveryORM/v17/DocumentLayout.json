@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\gabri\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\DeliveryORM\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C901419D-C575-4FDE-B580-B70AEB1792A9}|DeliveryORM\\DeliveryORM.csproj|C:\\Users\\gabri\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\DeliveryORM\\deliveryorm\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{C901419D-C575-4FDE-B580-B70AEB1792A9}|DeliveryORM\\DeliveryORM.csproj|c:\\users\\gabri\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\deliveryorm\\deliveryorm\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{C901419D-C575-4FDE-B580-B70AEB1792A9}|DeliveryORM\\DeliveryORM.csproj|solutionrelative:deliveryorm\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C901419D-C575-4FDE-B580-B70AEB1792A9}|DeliveryORM\\DeliveryORM.csproj|C:\\Users\\gabri\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\DeliveryORM\\deliveryorm\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C901419D-C575-4FDE-B580-B70AEB1792A9}|DeliveryORM\\DeliveryORM.csproj|solutionrelative:deliveryorm\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C901419D-C575-4FDE-B580-B70AEB1792A9}|DeliveryORM\\DeliveryORM.csproj|c:\\users\\gabri\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\deliveryorm\\deliveryorm\\migrations\\202406081458567_deliverymigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C901419D-C575-4FDE-B580-B70AEB1792A9}|DeliveryORM\\DeliveryORM.csproj|solutionrelative:deliveryorm\\migrations\\202406081458567_deliverymigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,32 +26,6 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "202406081458567_DeliveryMigration.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\DeliveryORM\\DeliveryORM\\Migrations\\202406081458567_DeliveryMigration.cs",
-              "RelativeDocumentMoniker": "DeliveryORM\\Migrations\\202406081458567_DeliveryMigration.cs",
-              "ToolTip": "C:\\Users\\gabri\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\DeliveryORM\\DeliveryORM\\Migrations\\202406081458567_DeliveryMigration.cs",
-              "RelativeToolTip": "DeliveryORM\\Migrations\\202406081458567_DeliveryMigration.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T15:23:27.457Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\DeliveryORM\\DeliveryORM\\Form1.cs",
-              "RelativeDocumentMoniker": "DeliveryORM\\Form1.cs",
-              "ToolTip": "C:\\Users\\gabri\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\DeliveryORM\\DeliveryORM\\Form1.cs",
-              "RelativeToolTip": "DeliveryORM\\Form1.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAADgv2wAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T08:32:48.96Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\DeliveryORM\\DeliveryORM\\Form1.cs",
@@ -67,7 +33,7 @@
               "ToolTip": "C:\\Users\\gabri\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\DeliveryORM\\DeliveryORM\\Form1.cs [Design]",
               "RelativeToolTip": "DeliveryORM\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T08:32:45.642Z",
+              "WhenOpened": "2024-06-10T17:33:53.068Z",
               "EditorCaption": " [Design]"
             }
           ]
